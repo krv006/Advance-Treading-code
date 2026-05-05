@@ -103,10 +103,3 @@ wb.save(OUT_XLSX)
 print(f"✅ Tayyor: {OUT_XLSX}")
 
 
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/krv006/Advance-Treading-code.git
-git push -u origin main
